@@ -1,0 +1,12 @@
+C:\Users\i3i\Documents\GitHub\ListaFor\exemplovetorcomfor\exemplovetorcomfor\bin\Debug\exemplovetorcomfor.exe.config
+C:\Users\i3i\Documents\GitHub\ListaFor\exemplovetorcomfor\exemplovetorcomfor\bin\Debug\exemplovetorcomfor.exe
+C:\Users\i3i\Documents\GitHub\ListaFor\exemplovetorcomfor\exemplovetorcomfor\bin\Debug\exemplovetorcomfor.pdb
+C:\Users\i3i\Documents\GitHub\ListaFor\exemplovetorcomfor\exemplovetorcomfor\obj\Debug\exemplovetorcomfor.csprojResolveAssemblyReference.cache
+C:\Users\i3i\Documents\GitHub\ListaFor\exemplovetorcomfor\exemplovetorcomfor\obj\Debug\exemplovetorcomfor.exe
+C:\Users\i3i\Documents\GitHub\ListaFor\exemplovetorcomfor\exemplovetorcomfor\obj\Debug\exemplovetorcomfor.pdb
+C:\Users\i3i\Documents\GitHub\ExemplosVetorComFor\exemplovetorcomfor\exemplovetorcomfor\bin\Debug\exemplovetorcomfor.exe.config
+C:\Users\i3i\Documents\GitHub\ExemplosVetorComFor\exemplovetorcomfor\exemplovetorcomfor\obj\Debug\exemplovetorcomfor.exe
+C:\Users\i3i\Documents\GitHub\ExemplosVetorComFor\exemplovetorcomfor\exemplovetorcomfor\obj\Debug\exemplovetorcomfor.pdb
+C:\Users\i3i\Documents\GitHub\ExemplosVetorComFor\exemplovetorcomfor\exemplovetorcomfor\bin\Debug\exemplovetorcomfor.exe
+C:\Users\i3i\Documents\GitHub\ExemplosVetorComFor\exemplovetorcomfor\exemplovetorcomfor\bin\Debug\exemplovetorcomfor.pdb
+C:\Users\i3i\Documents\GitHub\ExemplosVetorComFor\exemplovetorcomfor\exemplovetorcomfor\obj\Debug\exemplovetorcomfor.csprojResolveAssemblyReference.cache
